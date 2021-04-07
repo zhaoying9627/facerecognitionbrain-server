@@ -4,6 +4,6 @@
 2.Run npm install\
 3.Run npm start\
 You must add your own API key in the controllers/image.js file to connect to Clarifai API\
-Add your own database credentials to server.js line 14
+Add your own database credentials to server.js line 12
 
 ** Make sure you use postgreSQL for this code base.
